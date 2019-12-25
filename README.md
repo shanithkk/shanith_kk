@@ -1,6 +1,6 @@
 # Jekyll Resume Theme
 
-Live demo at https://jekyll-theme-minimal-resume.netlify.com/
+
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/24d80ae8-c3d9-4645-a6d8-9e97fc8dec3c/deploy-status)](https://app.netlify.com/sites/jekyll-theme-minimal-resume/deploys)
 
@@ -47,9 +47,9 @@ url: "http://localhost:3000" # the base hostname & protocol for your site
 ## User settings
 ```yml
 username: Lorem Ipsum
-user_description: Software Engineer at Lorem Ipsum Dolor
+neer at Lorem Ipsum Dolor
 user_title: Mauricio Urraco
-email: mauriurraco@gmail.com
+
 ```
 
 > Don't forget to change your URL before you deploy your site!
@@ -68,7 +68,7 @@ You can (and should) edit the `.html` files for adding your own information, ico
 
 ```html
 <a aria-label="My Github" target="_blank" href="https://github.com/murraco">
-  <i class="icon fa fa-github-alt" aria-hidden="true"></i>
+
 </a>
 ```
 
