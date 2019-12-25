@@ -2,5 +2,5 @@
 # Screenshot
 
 <p align="center">
-  <img src="https://github.com/murraco/jekyll-theme-minimal-resume/blob/master/screenshot.png" width="90%" />
+  <img src="https://github.com/shanithkk/shanithkk/blob/master/screeshot.PNG" width="90%" />
 </p>
