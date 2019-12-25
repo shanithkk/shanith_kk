@@ -1,16 +1,16 @@
 # Site settings
-title: Mauricio Urraco
-description: Jekyll Theme Minimal Resume
+title: SHANITH K K
+description: Resume
 baseurl: "/shanithkk" # the subpath of your site, e.g. /blog
 url: "/" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Mauricio Urraco
-user_description: I'm a nomad Software Engineer, always searching for the next challenge; no task is too scary nor too difficult. Lately I have been immersed in the <b>crypto-world</b> working for Radix, a London based startup trying to create the next massive scalable DLT. I'm one of the two guys behind all the JS related stuff. Visit my blog here <a href="https://mauriciourraco.com" target="_blank">https://mauriciourraco.com</a>
+username: SHANITH K K
+user_description: I'm a nomad Software Engineer, always searching for the next challenge; no task is too scary nor too difficult. To work in a well-established organization where I can use my academic and professional education & experience, which will help in the growth and development of the organization.
 user_title: Software Engineer
-email: mauriurraco@gmail.com
-# twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
+email: kkshanith@gmail.com
+twitter_username: shanith_kk
+github_username:  shanithkk
 # gplus_username:  lorem_ipsum
 
 # Google-analytics
