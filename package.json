@@ -9,8 +9,8 @@
   "author": "Mauricio Urraco <mauriurraco@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "browser-sync": "^2.18.6",
-    "gulp": "^4.0.2",
+    "browser-sync": "^2.29.3",
+    "gulp": "^5.0.0",
     "gulp-concat": "^2.6.1",
     "gulp-csso": "^4.0.1",
     "gulp-imagemin": "^6.2.0",
